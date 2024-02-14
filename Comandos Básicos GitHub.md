@@ -1,4 +1,4 @@
-##Comandos Git 
+##Comandos básico Git 
 
 **1) Conectar a conta**
 
